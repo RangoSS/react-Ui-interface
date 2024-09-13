@@ -10,11 +10,14 @@ const Home = () => {
                             a reality.
                         </h1>
                         <p> Get Exclusive offers on purchase of any plans</p>
+
                         <div className="d-flex justify-content-center">
-                            <form className="d-flex" role="search">
-                                <input className="form-control me-2 rounded-pill" type="search" placeholder="Your Email" aria-label="Search" />
-                                <button className="btn  btn-dark rounded-pill" type="submit">Signin</button>
+                            <form className="d-flex search" role="search">
+                                <input className="form-control me-2 rounded-pill search-input" type="search" placeholder="Your Email" aria-label="Search" />
+
+                                <button class="btns-white-home" type="submit">Sign In</button>
                             </form>
+
                         </div>
                     </div>
                 </div>

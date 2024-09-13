@@ -103,7 +103,7 @@ const Service = () => {
                         <p> Terms Policy  <span>.</span>   Customer Story</p>
                     </div>
                     <div className="col align-items-end float-end foo-right">
-                        <img src={whiteIcon} alt="" />
+                        <img className='next-page' src={whiteIcon} alt="" />
                     </div>
                 </div>
             </div>
