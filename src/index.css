@@ -1,0 +1,126 @@
+
+body{
+  color: black;
+}
+
+.s-service{
+
+}
+.sect-1{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+nav{
+  background: white;
+}
+.card-icon img{
+   width: 40px;
+   border-radius: 10px;
+   height: 30px;
+}
+
+
+.card-light{
+ color: black;
+}
+
+.card-dark{
+  color: white;
+}
+.card-dark .text-card ,h6{
+  color: gray;
+}
+.card-green{
+  background: #9eeee9;
+}
+.card-yellow{
+  background: #f3f5b9;
+}
+.card-purple{
+  background: #c19df1;
+}
+.cents{
+  font-weight: bold;
+  font-size: 20px;
+}
+.cents-dark{
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+
+}
+
+.banner{
+  width: 100%;
+  min-height: 100vh;
+  background:url('../assets/architect.jpg');
+  background-position:center;
+  background-size:cover;
+  color:black;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.banner-text{
+  text-align: center;
+  max-width: 650px;
+  margin: auto;
+  border: solid red;
+}
+
+.banner h1{
+  font-weight: bolder;
+  font-size:50px;
+}
+.banner p{
+  font-size:20px;
+}
+
+.foot{
+
+}
+.foot span{
+ margin: auto 10px;
+}
+
+.foo-right{
+
+  text-align: end;
+}
+.foo-right img{
+  width: 40px;
+  border-radius: 15px;
+  height: 30px;
+  border: solid gray;
+}
+
+.btns-white{
+  background: white;
+  border: solid gray;
+  padding: 8px 25px;
+  font-size: 16px;
+  border-radius: 30px;
+  cursor: pointer;
+  outline: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btns-dark{
+  background:black; 
+  color: white;
+  padding: 8px 25px;
+  margin-left: 5px;
+  font-size: 16px;
+  border-radius: 30px;
+  cursor: pointer;
+  outline: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.nav-small{
+  min-width: 10%;
+  border: solid;
+}
