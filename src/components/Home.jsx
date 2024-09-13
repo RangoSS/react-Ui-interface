@@ -16,7 +16,7 @@ const Home = () => {
                             <form className="d-flex search" role="search">
                                 <input className="form-control me-2 rounded-pill search-input" type="search" placeholder="Your Email" aria-label="Search" />
 
-                                <button class="btns-white-home" type="submit">Sign In</button>
+                                <button class="btns-white-home" type="submit">Sign Up</button>
                             </form>
 
                         </div>
