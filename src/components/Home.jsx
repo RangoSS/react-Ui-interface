@@ -7,8 +7,8 @@ const Home = () => {
             <div className='sect-1'>
                 <div className="banner">
                     <div className="banner-text">
-                        <h1>life Planning,Making Easy to Turn Dreams
-                            a reality.
+                        <h1>Life Planning,Making Easy to Turn Dreams
+                            a Reality.
                         </h1>
                         <p> Get Exclusive offers on purchase of any plans</p>
 
