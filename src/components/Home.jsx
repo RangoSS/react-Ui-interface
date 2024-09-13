@@ -1,5 +1,6 @@
 import React from 'react'
 //import bana from '../assets/architect.jpg'
+import searchme from '../assets/searchArrow.png'
 const Home = () => {
     return (
         <div>

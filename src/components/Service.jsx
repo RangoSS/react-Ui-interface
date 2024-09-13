@@ -32,7 +32,11 @@ const Service = () => {
                                 <h6 className="hed">3 yrs CAGR </h6>
                                 <div className="card-icon d-flex justify-content-between">
                                     <p className='cents'>7.20%</p>
-                                    <img src={blackIcon} alt="" />
+
+                                    <a href="/">
+                                        <img src={blackIcon} alt="" />
+                                    </a>
+
                                 </div>
                             </div>
                         </div>
@@ -51,7 +55,9 @@ const Service = () => {
                                 <h6 className="hed">25 yrs CAGR </h6>
                                 <div className="card-icon d-flex justify-content-between">
                                     <p className='cents-dark'>14.20%</p>
-                                    <img src={whiteIcon} alt="" />
+                                    <a href="/">
+                                        <img src={whiteIcon} alt="" />
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -70,7 +76,10 @@ const Service = () => {
                                 <h6 className="hed">1 yr returns </h6>
                                 <div className="card-icon d-flex justify-content-between">
                                     <p className='cents'>11.20%</p>
-                                    <img src={blackIcon} alt="" />
+
+                                    <a href="/">
+                                        <img src={blackIcon} alt="" />
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -90,7 +99,10 @@ const Service = () => {
                                 <h6 className="hed">5 yrs CAGR </h6>
                                 <div className="card-icon d-flex justify-content-between">
                                     <p className='cents'>8.20%</p>
-                                    <img src={blackIcon} alt="" />
+
+                                    <a href="/">
+                                        <img src={blackIcon} alt="" />
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -103,7 +115,11 @@ const Service = () => {
                         <p> Terms Policy  <span>.</span>   Customer Story</p>
                     </div>
                     <div className="col align-items-end float-end foo-right">
-                        <img className='next-page' src={whiteIcon} alt="" />
+
+                        <a href="/">
+                            <img className='next-page' src={whiteIcon} alt="" />
+                        </a>
+
                     </div>
                 </div>
             </div>
