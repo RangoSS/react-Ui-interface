@@ -7,12 +7,12 @@ const Service = () => {
             <div className="sect-1">
                 <div className="row">
                     <div className="col-md-6">
-                        <div className="features float-start">
+                        <div className="features float-start mb-5">
                             <h5>Featured Plans</h5>
                         </div>
                     </div>
                     <div className="col-md-6">
-                        <div className="see-all float-end">
+                        <div className="see-all float-end mb-5">
                             <h5>Explore All</h5>
                         </div>
                     </div>

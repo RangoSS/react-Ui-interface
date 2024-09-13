@@ -93,6 +93,7 @@ nav{
   border-radius: 15px;
   height: 30px;
   border: solid gray;
+  padding-left: 4px;
   transition: border-color 0.3s ease; 
 }
 .foo-right:hover .next-page{
@@ -164,6 +165,14 @@ nav{
 .search img{
   width: 2px;
 
+}
+.features h5{
+  font-weight: bold;
+  font-size: 1.9em;
+  
+}
+.see-all{
+  font-weight: bold;
 }
 
 

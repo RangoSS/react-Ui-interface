@@ -9,10 +9,10 @@ const NavBar = () => {
             <div className="sect-1">
                 <div className="row d-flex">
                     <div className="col-md-8 col-sm-12">
-                        <a class="navbar-brand" href="#"><img src={brands} alt="" /></a>
+                        <a className="navbar-brand mt-5" href="#"><img src={brands} alt="" /></a>
                     </div>
                     <div className="col-md-4 col-sm-12">
-                        <div class="searme d-flex mt-5">
+                        <div class="searme d-flex mt-4">
 
                             <button class="btns-white" type="submit">Log In</button>
                             <button class="btns-dark" type="submit">Get Started</button>
