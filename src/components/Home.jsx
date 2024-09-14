@@ -10,9 +10,9 @@ const Home = () => {
                         <h1>Life Planning,Making Easy to Turn Dreams
                             a Reality.
                         </h1>
-                        <p> Get Exclusive offers on purchase of any plans</p>
+                        <p className='mt-3'> Get Exclusive offers on purchase of any plans</p>
 
-                        <div className="d-flex justify-content-center">
+                        <div className="d-flex justify-content-center mt-5">
                             <form className="d-flex search" role="search">
                                 <input className="form-control me-2 rounded-pill search-input" type="search" placeholder="Your Email" aria-label="Search" />
 

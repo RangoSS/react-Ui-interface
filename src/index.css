@@ -6,7 +6,7 @@ body{
 }
 
 .s-service{
-
+justify-content: space-between;
 }
 .sect-1{
   margin-left: 5%;
@@ -99,14 +99,14 @@ nav{
   transition: border-color 0.3s ease; 
 }
 .foo-right:hover .next-page{
-  border: solid black;
+  border: solid #f3f5b9;
 }
 
 .search-input{
   border: solid gray;
 }
 .search:hover .search-input{
-  border: solid black;
+  border: solid #c19df1;
   transition: border-color 0.3s ease; 
 }
 

@@ -18,7 +18,7 @@ const Service = () => {
                     </div>
                 </div>
                 <div className="row">
-                    <div className="col-md-3 col-sm-12 s-service justify-content-center">
+                    <div className="col-md-3 col-sm-12 s-service">
                         <div className="card card-green border-0 mb-5" style={{ width: '18rem' }}>
 
                             <div className="card-body">
